@@ -1,8 +1,13 @@
 ## Insightful Bytes
 Welcome to my portfolio! 
 
-### Table of Contents
+#### Table of Contents
 
-#### Data Science 
+### Python
 | Project Link | Completion Date | Tools | Project Description | 
 | --- | --- | --- | --- |
+
+### RStudio
+
+### SQL
+
