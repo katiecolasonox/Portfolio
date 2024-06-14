@@ -2,6 +2,9 @@
 Welcome to my portfolio! 
 
 #### Table of Contents
+1. [Python](https://github.com/katiecolasonox/Portfolio?tab=readme-ov-file#python)
+2. [RStudio](https://github.com/katiecolasonox/Portfolio?tab=readme-ov-file#rstudio)
+3. [SQL](https://github.com/katiecolasonox/Portfolio?tab=readme-ov-file#sql)
 
 ### Python
 | Project Link | Completion Date | Area | Project Description | Libraries | 
