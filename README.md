@@ -6,7 +6,7 @@ Welcome to my portfolio!
 ### Python
 | Project Link | Completion Date | Area | Project Description | Libraries | 
 | --- | --- | --- | --- | --- |
-| :game_die: Simulating Yahtzee | May 2024 | Programming | Simulating a simplified verison of Yahtzee | numpy, random, matplotlib |  
+| :game_die: [Simulating Yahtzee](https://github.com/katiecolasonox/python-projects/tree/main/Simulating%20a%20Yahtzee%20Game) | May 2024 | Programming | Simulating a simplified verison of Yahtzee | numpy, random, matplotlib |  
 
 
 ### RStudio
