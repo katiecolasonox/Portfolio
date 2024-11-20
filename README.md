@@ -15,8 +15,7 @@ Welcome to my portfolio!
 ### RStudio
 | Project Link | Completion Date | Area | Project Description |
 | --- | --- | --- | --- |
-| :cityscape: [Tackling Environmental Justice with One Backpack in NY Neighborhoods](https://github.com/katiecolasonox/rstudio-projects/tree/main/Tackling%20Environmental%20Justice) | May 2024 | Data Wrangling/Cleaning, EDA, Feature Engineering, Modeling | **Machine learning and Featuring**
-Engineering: Used unsupervised kmeans clustering to analyze environmental justice disparities across New York City boroughs by examining CDC environmental justice rankings and PM2.5 concentration levels.|
+| :cityscape: [Tackling Environmental Justice with One Backpack in NY Neighborhoods](https://github.com/katiecolasonox/rstudio-projects/tree/main/Tackling%20Environmental%20Justice) | May 2024 | Data Wrangling/Cleaning, EDA, Feature Engineering, Modeling | **Machine learning and Featuring Engineering:** Used unsupervised kmeans clustering to analyze environmental justice disparities across New York City boroughs by examining CDC environmental justice rankings and PM2.5 concentration levels. |
 | :bike: [Bike Accidents in Madrid: How Bike Sharing, Traffic, and Weather Incident Reports](https://github.com/katiecolasonox/rstudio-projects/tree/main/Bike%20Accidents%20in%20Madrid) | Dec 2023 | Data Wranlging/Cleaning, EDA, Modeling | **Logistic Regression Analysis:** Conducted a logistic regression analysis to assess the influence of traffic, weather and shared bike usage on bike-related accidents. **Feature Impact Analysis:** Identified key predictors (traffic volume and bike usage) with significant positive impacts on accident occurrences. |
 
 
